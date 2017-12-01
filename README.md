@@ -10,4 +10,5 @@ We would like to add Emergency calling(911) from the App’s home screen
 Send location to a friend(SMS or email)
 Update Twitter with one tap
 Update Facebook with one tap
+
 Link to the app : https://stark-springs-11911.herokuapp.com/
